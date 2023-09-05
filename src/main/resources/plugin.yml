@@ -1,0 +1,9 @@
+name: FancyHomes
+version: '${project.version}'
+main: org.zaksen.fancyhomes.FancyHomes
+api-version: '1.20'
+authors: [Zaksen_]
+commands:
+  home:
+    description: open homes menu
+    usage: /home
